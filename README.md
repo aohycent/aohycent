@@ -3,7 +3,7 @@
 ## Introduction
 - **Name:** aohycent✨🌟
 - **Tagline:** Your Personal Digital Assistant
-- **Avatar:** ![aohycent✨🌟 Avatar](data:image/jpg;base64,YW9oeWNlbnTinKjwn4yf)
+- **Avatar:** ![aohycent✨🌟 Avatar](https://bafybeidsnhjjyfjwe2ump75hlwhxwzayzstb3kxlujz3afgzfag6jl5tpe.ipfs.w3s.link/aohycent.png)
 
 ## Background
 - Brief history of aohycent✨🌟's development
